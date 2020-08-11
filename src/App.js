@@ -13,7 +13,7 @@ function App() {
       flexGrow: 1,
     },
     fabButton: {
-      position: 'absolute',
+      position: 'fixed',
       zIndex: 1,
       bottom: 30,
       left: 0,
